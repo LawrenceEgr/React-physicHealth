@@ -1,0 +1,24 @@
+#button2{
+    background-color:rgba(143, 16, 168, 0.719) ;
+     border-radius: 10px
+     
+ }
+ #button3{
+     
+      background-color:white ;
+     border-color: black;
+     color: black;
+     border-radius: 10px
+   
+ }
+ .apple{
+    width:30px ;
+     height :20px ;
+ }
+ @media (min-width: 767.98px) {
+     .navbar {
+         top: 0;
+         position: sticky;
+         z-index: 999;
+     }
+ }

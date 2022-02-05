@@ -1,0 +1,25 @@
+  
+  #nav1 {
+    background-color: white;
+}
+
+.navbar-brand {
+    font-weight: bolder;
+    color: black;
+}
+.middle{
+    color: rgba(146, 22, 177, 0.589);
+}
+
+.navbar {
+    box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .1);
+    background: #0d6efd;
+    
+}
+#button1{
+    position: relative;
+     background-color:white;
+    color :rgba(143, 16, 168, 0.719);
+    border-color: rgba(143, 16, 168, 0.719);
+    border-radius: 10px;
+}
